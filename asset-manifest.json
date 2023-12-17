@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ShoPort/static/css/main.59d5d44a.css",
+    "main.js": "/ShoPort/static/js/main.2f40908a.js",
+    "static/js/787.7e18001c.chunk.js": "/ShoPort/static/js/787.7e18001c.chunk.js",
+    "static/media/Quiz.jpg": "/ShoPort/static/media/Quiz.585d851ba54a5ca35191.jpg",
+    "static/media/commerce (2).jpg": "/ShoPort/static/media/commerce (2).b0e939f971003376fe6c.jpg",
+    "static/media/Pixel.jpg": "/ShoPort/static/media/Pixel.782f9a4630348d4b4b6c.jpg",
+    "static/media/BMS.jpg": "/ShoPort/static/media/BMS.886ba56216b4bda86db2.jpg",
+    "static/media/CL.jpg": "/ShoPort/static/media/CL.bc9dfdbee9c0f6b3f66d.jpg",
+    "index.html": "/ShoPort/index.html",
+    "main.59d5d44a.css.map": "/ShoPort/static/css/main.59d5d44a.css.map",
+    "main.2f40908a.js.map": "/ShoPort/static/js/main.2f40908a.js.map",
+    "787.7e18001c.chunk.js.map": "/ShoPort/static/js/787.7e18001c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59d5d44a.css",
+    "static/js/main.2f40908a.js"
+  ]
+}
