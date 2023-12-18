@@ -1,5 +1,5 @@
 import React from "react";
-import { Routes, Route, useLocation } from "react-router-dom";
+import { Routes, Route, useLocation} from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import "./App.css";
 import Header from "./Components/Header";
@@ -10,7 +10,6 @@ import Projects from "./pages/Projects";
 import Hobby from "./pages/Hobby";
 import { Container } from "react-bootstrap";
 
-
 function App() {
   const location = useLocation();
   return (
@@ -18,7 +17,7 @@ function App() {
       <Header />
       <Container>
         <AnimatePresence exitBeforeEnter>
-          <Routes location={location} key={location.pathname}>
+          <Routes  location={location} key={location.pathname}>
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/About" element={<About />} />
@@ -26,7 +25,7 @@ function App() {
             <Route element={<Hobby/>} path="/hobby" />
           </Routes>
         </AnimatePresence>
-      </Container>
+        </Container>
     </>
   );
 }
