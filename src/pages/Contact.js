@@ -49,22 +49,20 @@ const Contact = () => {
               shobhitsingh@25032003@gmail.com.
             </p>
             <p>
-              I can help designing a website, designing a new product, improving
-              an existing part of your product, building a nice Front-end,
-              building websites.{" "}
+              I can help with a blockchain project, creating smart contracts, a
+              website or designing a new product, improving an existing part of
+              your product, building a nice Front-end.{" "}
             </p>
-            <p>
-              Currently a pre-finl year student at IIT(ISM) DHANBAD.
-            </p>
+            <p>Currently a pre-finl year student at IIT(ISM) DHANBAD.</p>
             <p>
               <ListGroup horizontal>
                 <ListGroup.Item>
-                  <a href="https://www.linkedin.com/in/shobhit-singh-632045195/">Linkedin</a>
+                  <a href="https://www.linkedin.com/in/shobhit-singh-632045195/">
+                    Linkedin
+                  </a>
                 </ListGroup.Item>
                 <ListGroup.Item>
-                  <a href="https://github.com/Shobhitsingh-2503">
-                    GitHub
-                  </a>
+                  <a href="https://github.com/Shobhitsingh-2503">GitHub</a>
                 </ListGroup.Item>
               </ListGroup>
             </p>

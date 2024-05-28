@@ -19,21 +19,40 @@ const About = () => {
         <>
           <article>
             <p>
-              I am Shobhit Singh, and I am a pre-final year student at IIT(ISM) Dhanbad pursuing Bachelor of Technology in Mining Engineering
+              I am Shobhit Singh, and I am a pre-final year student at IIT(ISM)
+              Dhanbad pursuing Bachelor of Technology in Mining Engineering
             </p>
             <p>
-            I am passionate about front-end web development and competitive programming. I have knowledge and experience in HTML, CSS, JavaScript, Bootstrap, Semantic UI, React.Js, and SQL. I have solved over 500+ problems on various coding platforms such as Leetcode, GFG, HackerRank, Codeforces, and Codechef. I am a 5-star programmer in problem-solving on HackerRank.
+              I am a passionate blockchain developer with a strong foundation in
+              building smart contracts using Solidity. My expertise includes
+              creating ERC20 and ERC721 tokens, showcasing my ability to develop
+              both fungible and non-fungible tokens. I am proficient in using
+              Hardhat for testing and deploying smart contracts, and I am
+              well-versed in Ethereum's powerful libraries, such as Ethers.js
+              and Web3.js.
             </p>
             <p>
-            In addition to my technical skills, I also has a love for photography.
+              In addition to my blockchain development skills, I excel in
+              front-end development, with extensive experience in React.js. My
+              deep knowledge of JavaScript and its various libraries allows me
+              to create seamless and interactive web applications that
+              complement the blockchain back-end. Moreover, I am well-equipped
+              in competitive programming using C++. I have solved over 600
+              problems across various coding platforms, including LeetCode,
+              Codeforces, HackerRank (5-star coder in problem-solving),
+              GeeksforGeeks, and many more. This experience has honed my
+              problem-solving abilities and strengthened my coding skills,
+              enabling me to tackle complex challenges efficiently.
             </p>
             <p>
-            I enjoy capturing moments and creating memories through their camera lens. My love for photography has helped me develop a unique perspective and an eye for detail, which I bring to my work in web development.
+              Beyond coding, I have a keen interest in photography, which
+              inspires me to blend creativity with technology in my projects. My
+              photography hobby fuels my innovative mindset, helping me to see
+              the world from different perspectives and bring a unique touch to
+              my development work. Combining my technical skills with my
+              creative pursuits, I strive to build cutting-edge, user-friendly
+              blockchain solutions that make a real impact.
             </p>
-            <p>
-            In the dynamic intersection of technology and creativity, I find a harmonious balance. The love for front-end development, competitive programming, and photography intertwines, creating a unique and multifaceted skill set. With each line of code and every captured image, I continue to explore, learn, and leave an indelible mark on the ever-evolving landscape of technology and art.
-            </p>
-            
           </article>
         </>
       </div>

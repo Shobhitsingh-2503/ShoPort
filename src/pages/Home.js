@@ -30,7 +30,8 @@ const Home = () => {
         }}
         transition={{ duration: 1 }}
       >
-        <font>Front-end</font> Developer and Competitive <font>Programmer</font> 
+        <font>Fullstack Blockchain</font> Developer and <font>Competitive</font>{" "}
+        Programmer
       </motion.div>
     </div>
   );
